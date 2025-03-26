@@ -1,3 +1,5 @@
+package Taskprogram;
+
 import java.util.Scanner;
 
 public class Gradeprogram {

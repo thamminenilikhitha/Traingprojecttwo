@@ -1,4 +1,4 @@
-//import java.util.Scanner;
+package Taskprogram;//import java.util.Scanner;
 
 public class xyz2 {
 
